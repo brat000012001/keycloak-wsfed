@@ -1,0 +1,3 @@
+[submodule "cloudtrust-parent"]
+	path = cloudtrust-parent
+	url = https://github.com/cloudtrust/cloudtrust-parent.git
